@@ -1,2 +1,1 @@
-One of the homework assignments in the "Java Basics" course. 
-Simple code related to the introduction of DAO and the use of basic CRUD methods from SQL.
+Vehicle is a simple application (one of the homework assignments in the "Java Basics" course) that allows managing vehicles. Users can add, edit, delete and view vehicle information such as color, make, model, date of manufacture and fuel type. Technologies such as Java, MySQL, JDBC were used to create it. 
